@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    background: red;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav h1 a{
+    text-decoration: none;
+    color: rgb(103, 105, 128);
+font-family: cursive;
+}
+.nav div {
+    font-weight: 1000;
+    font-size: xx-large;
+}
+.menu{
+    
+}
+.option{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+
+}
+.option button{
+    padding: 10px;
+    background-color: rgb(85, 145, 29);
+    
+}
+.Image{
+    width: 100%;
+    /* height: 70vh; */
+
+}
+.Shishir{
+    display: flex;
+gap: 20px;
+}
+.b{
+    display: flex;
+    gap: 20px;
+
+
+}
+.c{
+    display: flex;
+    gap: 20px;
+}
+.Sh{
+    color: red;
+    
+}
+.ac{
+    color: blue;
+}
+    
+
+
